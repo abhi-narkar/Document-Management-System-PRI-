@@ -1,0 +1,15 @@
+body{
+	background: url(images/Website-Design-Background.png);
+	background-size: cover;
+	font-family: Lato;
+
+}
+
+.details{
+	color: white;
+}
+
+html {
+	height: 100%;
+}
+

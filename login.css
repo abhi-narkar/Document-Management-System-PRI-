@@ -1,0 +1,23 @@
+body{
+	background: url(https://www.digitalplatforms.co.za/wp-content/uploads/2015/11/Website-Design-Background.png);
+	background-size: cover;
+	font-family: Lato;
+
+}
+
+#loginE{
+	color: white;
+}
+
+#loginP{
+	color: white;
+}
+
+#remember{
+	color: white;
+}
+
+html {
+	height: 100%;
+}
+
